@@ -19,3 +19,5 @@ You can :
   * customize your template in `templates/index.html.twig`.
   * make new variables available to your template by defining them in the `config/vars.php`.
 
+You do not need to restart the PHP server when you define new variables or modify
+the template.
